@@ -1,2 +1,3 @@
-# git-on-server
-搭建 git 服务器
+# Git on the Server - Getting Git on a Server
+
+以下内容基于 Ubuntu 16.04 LTS \n \l
