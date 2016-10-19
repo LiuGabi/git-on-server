@@ -28,5 +28,4 @@
    Finished ！！！O(∩_∩)O~
    
    
-   
-   Note: 进入服务器端，若无法查看 git 库目录下已被提交的文件时用 git --work-tree=. checkout -f 命令
+   Note: 进入服务器端，若无法查看 git 库目录下已被提交的文件时用 git --work-tree=. checkout -f 命令
